@@ -48,6 +48,8 @@ RegisterNumber:212225040154
 
 
 **RTL realization**
+
+
 <img width="766" height="422" alt="Screenshot 2026-09-04 105621" src="https://github.com/user-attachments/assets/76c6bf41-fa42-4bff-8cbd-5f40dd89804c" />
 
 **Output:**
