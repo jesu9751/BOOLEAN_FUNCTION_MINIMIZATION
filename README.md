@@ -51,6 +51,8 @@ RegisterNumber:212225040154
 <img width="766" height="422" alt="Screenshot 2026-09-04 105621" src="https://github.com/user-attachments/assets/76c6bf41-fa42-4bff-8cbd-5f40dd89804c" />
 
 **Output:**
+
+
 <img width="1917" height="1078" alt="Screenshot 2026-09-04 105600" src="https://github.com/user-attachments/assets/48e3358c-ea93-4a40-ab39-db24cdad526f" />
 
 
